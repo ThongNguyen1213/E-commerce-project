@@ -1,0 +1,19 @@
+.product-main {
+    display: flex;
+    justify-content: center;
+    padding: 0px 40px;
+    margin-top: 20px;
+}
+
+.categories-bar {
+    width: 18%;
+}
+
+.inventory-bar {
+    width: 64%;
+
+}
+
+.sort-bar {
+    width: 18%;
+}

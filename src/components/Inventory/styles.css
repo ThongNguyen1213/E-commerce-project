@@ -1,0 +1,23 @@
+.product-display {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.product-overview {
+    text-decoration: none;
+    height: 426px;
+    width: 220px;
+    padding-right: 10px;
+}
+
+.product-image{
+    object-fit: contain;
+    max-width: 218px;
+    max-height: 326px;
+}
+
+.product-info {
+    font-size: 11px;
+    color: black;
+    line-height: 1.36;
+}

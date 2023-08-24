@@ -1,0 +1,34 @@
+.login-form {
+    color: black;
+    margin: auto;
+    width: 250px;
+    line-height: 3;
+}
+
+.email-password {
+    display: flex;
+    flex-direction: column;
+    text-align: left;
+}
+
+.register-button {
+    border: none;
+    background: none;
+    text-decoration: none;
+}
+
+.input-box {
+    height: 30px;
+    font-size: 15px;
+    text-indent: 5px;
+    border-width: 1px;
+}
+
+.login-button {
+    width: 100%;
+    height: 30px;
+    border-radius:2px;
+    background-color: black !important;
+    color: white;
+    cursor: pointer;
+}

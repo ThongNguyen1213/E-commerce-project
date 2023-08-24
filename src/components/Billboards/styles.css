@@ -1,0 +1,11 @@
+.ads-image{
+    width: 35%;
+    height: 35%;
+    padding: 20px 50px;
+}
+
+.ads{
+    padding: 10px 50px;
+    display: flex;
+   justify-content: center;
+}

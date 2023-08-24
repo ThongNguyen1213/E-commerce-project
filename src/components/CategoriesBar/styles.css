@@ -1,0 +1,21 @@
+.category-list {
+    font-size: 11px;
+}
+
+.category-title {
+    font-size: 12px;
+    list-style-type: none;
+    text-transform: uppercase;
+    margin-bottom: 4px;
+}
+
+.designer-list {
+    font-size: 11px;
+}
+
+.designer-title {
+    font-size: 12px;
+    list-style-type: none;
+    margin-bottom: 4px;
+    text-transform: capitalize;
+}

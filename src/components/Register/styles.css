@@ -1,0 +1,23 @@
+.register-form {
+    color: black;
+    margin: auto;
+    width: 200px;
+    line-height: 2.2;
+}
+
+.info {
+    display: flex;
+    text-align: left;
+    flex-direction: column;
+}
+
+
+.input-box {
+    height: 30px;
+    font-size: 15px;
+    text-indent: 5px;
+    border-radius: 2px;
+    border-width: 1px;
+    text-indent: 5px;
+    width: 100%;
+}
